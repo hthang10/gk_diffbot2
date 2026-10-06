@@ -39,3 +39,4 @@ in a new terminal, enter the command:
 ```bash
 rviz2
 ```
+
